@@ -7,15 +7,7 @@ focused on design, configuration, and troubleshooting.
 
 ## 📋 Project List
 
-### 🔹 Project 1: Small Office Network Design
+### 🔹 Project 1: Firewall Implementation & Network Security
 ➡️ [View Project](Project-1)
 
-### 🔹 Project 2: VLAN & Inter-VLAN Routing
-➡️ [View Project](Project-2)
-
 ---
-
-## 🧰 Tools Used
-- Cisco Packet Tracer
-- Switches & Routers
-- VLAN, DHCP, Static Routing
