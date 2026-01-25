@@ -32,8 +32,8 @@ The following diagram represents a **high-level, sanitized view** of the deploye
 - **Switching:** Unmanaged Layer-2 Switch
 - **Storage:** 2 × QNAP NAS devices
 - **Surveillance Infrastructure:**
-  - 1 × NVR
-  - 1 × PoE Switch
+  - 2 × NVR
+  - 3 × PoE Switch
   - Multiple IP cameras connected via PoE
 
 ---
