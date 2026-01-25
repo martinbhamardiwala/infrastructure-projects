@@ -30,19 +30,6 @@ Each project reflects **problem-driven solution delivery** rather than theoretic
 **Project Overview:**  
 Designed and implemented a firewall-based security solution to protect internal networks from unauthorized access while ensuring required services remained available to users and applications.
 
-**Key Objectives:**
-- Enforce network security policies
-- Control inbound and outbound traffic
-- Reduce attack surface
-- Maintain business continuity
-
-**Key Areas Covered:**
-- Firewall architecture design
-- Rule and policy implementation
-- Network segmentation
-- Traffic monitoring and validation
-- Post-deployment verification
-
 ➡️ [View Project Details](Project-1)
 
 ---
