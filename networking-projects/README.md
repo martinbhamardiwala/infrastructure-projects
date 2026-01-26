@@ -43,6 +43,15 @@ Designed and deployed a high-density wireless network to provide seamless Wi-Fi 
 
 ---
 
+### 🔹 Project 3: Point-to-Point (P2P) Wireless Connectivity
+
+**Project Overview:**  
+Designed and implemented a Point-to-Point wireless network to connect two geographically separated locations where fiber deployment was impractical and costly. Using enterprise-grade Cambium P2P devices, the solution delivered stable, low-latency connectivity comparable to a wired link.
+
+➡️ [View Project Details](Project-3)
+
+---
+
 ## 🛠️ Technologies & Tools Used
 
 - Firewall platforms (hardware / software-based)
