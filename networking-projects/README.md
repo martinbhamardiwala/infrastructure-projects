@@ -34,6 +34,15 @@ Designed and implemented a firewall-based security solution to protect internal 
 
 ---
 
+### 🔹 Project 2: Underground Parking Wi-Fi Calling & Wireless Coverage
+
+**Project Overview:**  
+Designed and deployed a high-density wireless network to provide seamless Wi-Fi Calling and internet connectivity in a two-level underground parking facility where mobile network coverage was unavailable. The solution ensured reliable voice communication, controlled bandwidth usage, and full area coverage using a scalable fiber-backed infrastructure.
+
+➡️ [View Project Details](Project-2)
+
+---
+
 ## 🛠️ Technologies & Tools Used
 
 - Firewall platforms (hardware / software-based)
